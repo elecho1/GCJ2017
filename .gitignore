@@ -1,0 +1,16 @@
+*.exe
+*.exe.stackdump
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Other files
+*.pdf
+*.PNG
+*.png
+*.jpg
+*.JPG
+*.JPEG
